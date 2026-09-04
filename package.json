@@ -1,0 +1,24 @@
+{
+  "name": "trilha-backend",
+  "version": "1.0.0",
+  "description": "Repositório dedicado aos meus estudos e à minha evolução no desenvolvimento Backend.",
+  "homepage": "https://github.com/leoschwedler/Trilha-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/leoschwedler/Trilha-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoschwedler/Trilha-Backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
